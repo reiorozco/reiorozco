@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rei Orozco</h1>
 <h3 align="center">I’m an Industrial Engineer focused in Web Development</h3>
 
+  <a href="https://app.daily.dev/reiorozco" target="_blank">
+    <img
+      width="300"
+      align="right"
+      src="https://api.daily.dev/devcards/aa471f83ce1449f3a2bf024c6c8a6c19.png?r=806"
+      alt="Rei Orozco's Dev Card"
+    />
+  </a>
+
 # 💫 About Me :
 🌱 I’m currently learning Full Stack Web Developer skills
 
