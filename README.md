@@ -6,7 +6,6 @@
 
 🔎 I’m looking to collaborate on different projects that help me to grow up in this amazing industry!
 
-<h3 align="left">Connect with me:</h3>
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reiorozco) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/orozcorei) 
 
