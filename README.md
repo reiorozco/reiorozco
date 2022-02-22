@@ -3,7 +3,7 @@
 
   <a href="https://app.daily.dev/reiorozco" target="_blank">
     <img
-      width="300"
+      width="256"
       align="right"
       src="https://raw.githubusercontent.com/reiorozco/reiorozco/devcard/devcard.svg"
       alt="Rei Orozco's Dev Card"
