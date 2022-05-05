@@ -11,7 +11,7 @@
   </a>
 
 # 💫 About Me :
-🌱 I’m currently learning Full Stack Web Developer skills
+🌱 I’m currently learning Cloud Computing skills
 
 🔎 I’m looking to collaborate on different projects that help me to grow up in this amazing industry!
 
