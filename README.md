@@ -21,7 +21,7 @@ I am an Industrial Engineer passionate about web development and technological i
 ### Connect With Me
 
 <a href="https://linkedin.com/in/reiorozco" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="45" height="45"/>
 </a>
 
 ### Tech Stack
@@ -41,7 +41,7 @@ I am an Industrial Engineer passionate about web development and technological i
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 16px;">
   <img src="https://github-readme-stats.vercel.app/api?username=reiorozco&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiorozco&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
