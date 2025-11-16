@@ -26,36 +26,52 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 
 ## 🛠️ Tech Stack
 
-#### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-#### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Nest.js" width="40" height="40"/>
-</p>
+**Frontend**
 
-#### Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
+</td>
+<td align="center" width="33%">
+
+**Backend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Nest.js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/>
+
+</td>
+<td align="center" width="33%">
+
+**Databases & Cloud**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+
+</td>
+</tr>
+</table>
 
 ## 🌱 Currently Learning
 
-- ☁️ **Cloud Computing:** AWS services and cloud architecture patterns
-- 🐳 **DevOps:** Docker, CI/CD pipelines, and infrastructure as code
-- 🏗️ **System Design:** Scalable architectures and microservices
-- 🤖 **AI Engineering:** Machine learning integration and AI-powered applications
+- ☁️ **Cloud Computing:** AWS architecture patterns and cloud-native solutions
+- 🐳 **DevOps:** Docker containerization, CI/CD pipelines with GitHub Actions
+- 🏗️ **System Design:** Scalable architectures and microservices patterns
+- 🤖 **AI Engineering:** Integrating LLMs and building AI-powered applications
 
 ## 📊 GitHub Stats
 
@@ -66,13 +82,13 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 
 ## 📫 Get In Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate on innovative solutions.
+I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate on impactful solutions.
 
 - 💼 **LinkedIn:** [linkedin.com/in/reiorozco](https://linkedin.com/in/reiorozco)
 - 📧 **Email:** rfoc15@gmail.com
 - 🌐 **Portfolio:** [portfolio-ro-bay.vercel.app](https://portfolio-ro-bay.vercel.app/)
 
-**Currently open to:** Full-time opportunities | Freelance projects | Open source collaboration
+**Open to:** Full Stack Development roles • Freelance projects • Open source collaboration
 
 ---
 
