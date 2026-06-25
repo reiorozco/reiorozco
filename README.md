@@ -73,7 +73,7 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 | [**Project Manager**](https://github.com/reiorozco/project-manager-app) | Multi-role platform (Clients, Project Managers & Designers) to manage design projects with auth and file storage | `Next.js 15` `TypeScript` `Prisma` `Supabase` | [↗](https://project-manager-app-cyan.vercel.app) |
 | [**Issue Tracker**](https://github.com/reiorozco/issuetracker-app) | Full-stack issue tracker with authentication, dashboards and charts | `Next.js` `Prisma` `NextAuth` `Radix UI` | [↗](https://issue-tracker-app-blue.vercel.app) |
 | [**3D Portfolio**](https://github.com/reiorozco/portafoliov2-ro) | Interactive personal portfolio with 3D scenes and animations | `React 19` `Three.js` `GSAP` `Tailwind` | [↗](https://portfolio-ro-bay.vercel.app) |
-| [**Vidly**](https://github.com/reiorozco/vidly-api) | RESTful API (tests + Swagger docs) and its React client — a full-stack pair | `Express` `MongoDB` `Jest` `React` | [↗](https://vidly-app-reiorozco.vercel.app) |
+| [**Vidly**](https://github.com/reiorozco/vidly-api) | RESTful API (tests + Swagger docs) and its React client — a full-stack pair | `Express` `MongoDB` `Jest` `React` | [↗](https://vidly-app-six.vercel.app) |
 | [**GameHub**](https://github.com/reiorozco/gamehub-app) | Browse and discover video games powered by the RAWG API | `React 18` `TypeScript` `Chakra UI` `Zustand` | [↗](https://game-hub-app.vercel.app) |
 | [**DoneWithIt**](https://github.com/reiorozco/donewithit-app) | React Native marketplace app to buy and sell items locally | `React Native` `Expo` `TypeScript` | — |
 
