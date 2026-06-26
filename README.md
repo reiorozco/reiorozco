@@ -34,6 +34,7 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/>
@@ -70,6 +71,7 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 
 | Project | Description | Tech | Live |
 |---------|-------------|:----:|:----:|
+| [**matchday-mcp**](https://github.com/reiorozco/matchday-mcp) | Open-source **MCP server** (TS + Zod) streaming live football data to Claude & any AI assistant — plus a Svelte 5 playground on the same data layer · [npm](https://www.npmjs.com/package/matchday-mcp) | `TypeScript` `Zod` `MCP` `SvelteKit` | [↗](https://matchday-mcp-web.vercel.app) |
 | [**Project Manager**](https://github.com/reiorozco/project-manager-app) | Multi-role platform (Clients, Project Managers & Designers) to manage design projects with auth and file storage | `Next.js 15` `TypeScript` `Prisma` `Supabase` | [↗](https://project-manager-app-cyan.vercel.app) |
 | [**Issue Tracker**](https://github.com/reiorozco/issuetracker-app) | Full-stack issue tracker with authentication, dashboards and charts | `Next.js` `Prisma` `NextAuth` `Radix UI` | [↗](https://issue-tracker-app-blue.vercel.app) |
 | [**3D Portfolio**](https://github.com/reiorozco/portafoliov2-ro) | Interactive personal portfolio with 3D scenes and animations | `React 19` `Three.js` `GSAP` `Tailwind` | [↗](https://portfolio-ro-bay.vercel.app) |
@@ -82,7 +84,7 @@ Full Stack Developer with a background in Industrial Engineering, combining anal
 - ☁️ **Cloud Computing:** AWS architecture patterns and cloud-native solutions
 - 🐳 **DevOps:** Docker containerization, CI/CD pipelines with GitHub Actions
 - 🏗️ **System Design:** Scalable architectures and microservices patterns
-- 🤖 **AI Engineering:** Integrating LLMs and building AI-powered applications
+- 🤖 **AI Engineering:** Building MCP servers and LLM-powered tools (see [matchday-mcp](https://github.com/reiorozco/matchday-mcp))
 
 ## 📊 GitHub Stats
 
